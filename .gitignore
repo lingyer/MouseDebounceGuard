@@ -1,0 +1,13 @@
+# Build and Release
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.idea/
+*.log
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
